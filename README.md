@@ -3,8 +3,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/43_ziki_34)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTu8yJzBs6OySc10j2cMbhg)
 
 ## Um dev em eterno aprendizado. 👾🐞 
+<div style="Display:flex; Justify-content:center; Align-Items:center;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZiki&layout=pie)](https://github.com/KiraZiki/github-readme-stats$theme=radical)
 ![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraZiki&show_icons=true&theme=radical)
+</div>
 ### Habilidades que domino
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
