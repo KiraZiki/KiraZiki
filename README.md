@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/43_ziki_34)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTu8yJzBs6OySc10j2cMbhg)
 
 ## Um dev em eterno aprendizado. 👾🐞 
-![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraZiki&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZiki&layout=pie)](https://github.com/KiraZiki/github-readme-stats)
+![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraZiki&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZiki&layout=pie)](https://github.com/KiraZiki/github-readme-stats)
 
 ### Habilidades que domino
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,5 +25,3 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![Snake animation](https://github.com/KiraZiki/KiraZiki/blob/output/github-contribution-grid-snake.svg)
