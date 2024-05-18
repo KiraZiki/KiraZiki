@@ -25,4 +25,4 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-![Snake animation](https://github.com/rafaballerini2/KiraZiki/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KiraZiki/KiraZiki/blob/output/github-contribution-grid-snake.svg)
